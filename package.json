@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.1.0"
+  },
+  "dependencies": {
+    "solc": "^0.8.0"
+  }
+}
